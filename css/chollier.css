@@ -58,3 +58,8 @@ body {
 .well {
 font-family: 'Sanchez', serif;
 }
+
+.projects-page h4 a, .projects-page .project-description a {
+	color: #333;
+	text-decoration: none;
+}
