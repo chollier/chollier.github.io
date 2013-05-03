@@ -63,3 +63,15 @@ font-family: 'Sanchez', serif;
 	color: #333;
 	text-decoration: none;
 }
+
+.projects-page h4 i {
+	margin-left: -21px;
+    margin-top: 5px;
+    padding-right: 5px;
+    visibility: hidden;
+}
+
+.projects-page h4:hover i:first-child {
+	visibility: visible;
+}
+
